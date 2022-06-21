@@ -4,7 +4,7 @@ face-recognition==1.2.3
 face-recognition-models==0.3.0
 mysql-connector-python==8.0.17
 nltk==3.4.5
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 Pillow==6.1.0
 protobuf==3.9.1
